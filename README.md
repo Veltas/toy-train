@@ -15,8 +15,8 @@ Running
 
 Run `./toy-train`.
 
-`A` toggles anti-aliasing, `<up>`/`<down>` cursors change velocity,
-`<left>`/`<right>` cursors change train length, `<space>` changes view point.
+`A` toggles anti-aliasing, `<up>`/`<down>` keys change velocity,
+`<left>`/`<right>` keys change train length, `<space>` changes view point.
 
 Licensing
 ---------
